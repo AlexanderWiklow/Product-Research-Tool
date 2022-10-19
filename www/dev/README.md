@@ -134,10 +134,7 @@ Thats it! Now you have customized this code to suit your own project!
 
 ### Links
 
-// TODO:
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Product Research Tool](https://github.com/GitWebb22/Alexander.W/tree/main/www/dev)
 
 ---
 
