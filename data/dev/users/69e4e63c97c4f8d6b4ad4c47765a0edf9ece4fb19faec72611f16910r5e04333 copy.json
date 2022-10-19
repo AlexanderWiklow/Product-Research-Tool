@@ -1,0 +1,165 @@
+{
+    "users": [{
+            "OrderID:": "01",
+            "Gender": "Male",
+            "Year of birth": "1987",
+            "Place of residence": "Gothenburg",
+            "Item#1": "TV",
+            "Item#2": "Dishwasher",
+            "Item#3": "Laptop",
+            "Item#4": "Couch",
+            "Item#5": "Running Shoes",
+            "Item#6": "Gift Cards",
+            "Item#7": "Wireless Speaker",
+            "Item#8": "Camera",
+            "Item#9": "Books",
+            "Item#10": "T-shirt"
+
+        },
+        {
+            "OrderID:": "02",
+            "Gender": "Female",
+            "Year of birth": "1977",
+            "Place of residence": "Stockholm",
+            "Item#1": "TV",
+            "Item#2": "Gift Cards",
+            "Item#3": "Laptop",
+            "Item#4": "Wireless Speaker",
+            "Item#5": "T-Shirt"
+        },
+        {
+            "OrderID:": "03",
+            "Gender": "Male",
+            "Year of birth": "2001",
+            "Place of residence": "Gothenburg",
+            "Item#1": "TV",
+            "Item#2": "Dishwasher",
+            "Item#3": "Camera",
+            "Item#4": "Books",
+            "Item#5": "T-Shirt"
+        }, {
+            "OrderID:": "04",
+            "Gender": "Female",
+            "Year of birth": "1999",
+            "Place of residence": "Stockholm",
+            "Item#1": "TV",
+            "Item#2": "Couch",
+            "Item#3": "Books",
+            "Item#4": "Wireless Speaker",
+            "Item#5": "T-Shirt"
+        }, {
+            "OrderID:": "05",
+            "Gender": "Female",
+            "Year of birth": "1994",
+            "Place of residence": "Malmö",
+            "Item#1": "Laptop",
+            "Item#2": "Dishwasher",
+            "Item#3": "Laptop",
+            "Item#4": "Couch",
+            "Item#5": "T-Shirt"
+        }, {
+            "OrderID:": "06",
+            "Gender": "Male",
+            "Year of birth": "2001",
+            "Place of residence": "Malmö",
+            "Item#1": "Laptop",
+            "Item#2": "Couch",
+            "Item#3": "Laptop",
+            "Item#4": "Books",
+            "Item#5": "T-Shirt"
+        }, {
+            "OrderID:": "07",
+            "Gender": "Female",
+            "Year of birth": "2003",
+            "Place of residence": "Stockholm",
+            "Item#1": "Gift Cards",
+            "Item#2": "Laptop",
+            "Item#3": "Camera",
+            "Item#4": "Books"
+        }, {
+            "OrderID:": "08",
+            "Gender": "Male",
+            "Year of birth": "1968",
+            "Place of residence": "Stockholm",
+            "Item#1": "Gift Cards",
+            "Item#2": "Laptop",
+            "Item#3": "T-Shirt"
+        }, {
+            "OrderID:": "09",
+            "Gender": "Male",
+            "Year of birth": "1956",
+            "Place of residence": "Stockholm",
+            "Item#1": "Wireless Speaker",
+            "Item#2": "T-Shirt"
+        }, {
+            "OrderID:": "10",
+            "Gender": "Female",
+            "Year of birth": "1949",
+            "Place of residence": "Stockholm",
+            "Item#1": "Books",
+            "Item#2": "T-Shirt"
+        }, {
+            "OrderID:": "11",
+            "Gender": "Female",
+            "Year of birth": "1968",
+            "Place of residence": "Stockholm",
+            "Item#1": "Camera"
+
+        }, {
+            "OrderID:": "12",
+            "Gender": "Male",
+            "Year of birth": "1989",
+            "Place of residence": "Stockholm",
+            "Item#1": "Dishwasher",
+            "Item#2": "Gift Cards"
+
+        }, {
+            "OrderID:": "13",
+            "Gender": "Male",
+            "Year of birth": "1967",
+            "Place of residence": "Stockholm",
+            "Item#1": "Running Shoes"
+        }, {
+            "OrderID:": "14",
+            "Gender": "Female",
+            "Year of birth": "1988",
+            "Place of residence": "Stockholm",
+            "Item#1": "Couch",
+            "Item#2": "Gift Cards",
+            "Item#3": "Laptop"
+        }, {
+            "OrderID:": "15",
+            "Gender": "Female",
+            "Year of birth": "1965",
+            "Place of residence": "Stockholm",
+            "Item#1": "Laptop",
+            "Item#2": "Gift Cards"
+        }, {
+            "OrderID:": "16",
+            "Gender": "Male",
+            "Year of birth": "1975",
+            "Place of residence": "Stockholm",
+            "Item#1": "Running Shoes",
+            "Item#2": "Gift Cards",
+            "Item#3": "Laptop"
+        }, {
+            "OrderID:": "17",
+            "Gender": "Male",
+            "Year of birth": "1983",
+            "Place of residence": "Stockholm",
+            "Item#1": "Books",
+            "Item#2": "Gift Cards",
+            "Item#3": "Couch"
+        }, {
+            "OrderID:": "18",
+            "Gender": "Male",
+            "Year of birth": "1987",
+            "Place of residence": "Stockholm",
+            "Item#1": "Running Shoes",
+            "Item#2": "Gift Cards",
+            "Item#3": "Laptop",
+            "Item#4": "Wireless Speaker",
+            "Item#5": "T-Shirt"
+        }
+    ]
+}

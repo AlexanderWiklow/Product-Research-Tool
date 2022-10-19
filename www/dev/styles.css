@@ -1,0 +1,94 @@
+ul {
+    list-style: none;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+th, td{
+  padding: 10px 20px;
+  border: 1px solid #000;
+}
+:root {
+
+}
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: linear-gradient(45deg, darkblue, lightblue);
+}
+
+
+body {
+  background-color: rgb(240, 240, 234);
+        min-height: 100vh;
+        margin: 5rem;
+        padding: 1rem;
+        font-family: 'Roboto', sans-serif;
+
+}
+
+#title-container {
+  background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+#title {
+    /* font-size: 1rem; */
+    font-weight: 700;
+    margin: 1rem;
+}
+
+#MainDescription-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+#checkbox-container {
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center;
+    flex-direction: row; */
+    margin: 2rem;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+table {
+display: block;
+    overflow: scroll;
+    background-color: antiquewhite;
+}
+
+#checkbox-btn, #checkbox-clear-btn {
+    margin: 0.5rem;
+    padding: 0.4rem;
+  background-color: white;
+  color: black;
+ box-shadow: 4px 8px #888888;
+ border-radius: 20%;
+  border: 2px solid #555555;
+}
+
+img  {
+     box-shadow: 6px 12px #888888;
+}
