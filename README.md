@@ -1,7 +1,7 @@
 
 # Product Research Tool Website
 
-![](./images/Screenshot%20from%202022-10-18%2022-37-04.png)
+![](./www/dev/images/Screenshot%20from%202022-10-18%2022-37-04.png)
 
 <h1>Welcome! &#x1F44B; </h1>
 
@@ -82,11 +82,11 @@ This program is not too advanced. The basic code is pretty simple and it would b
   2. Clone or fork the project:
 
 Fork: 
-![](./images/Screenshot%20from%202022-10-18%2023-51-45.png)
+![](./www/dev/images/Screenshot%20from%202022-10-18%2023-51-45.png)
 
 Clone: 
 
-![](./images/Screenshot%20from%202022-10-18%2023-56-09.png)
+![](./www/dev/images/Screenshot%20from%202022-10-18%2023-56-09.png)
 
   4. Then, open this project in an editor or your choice, could be Visual Studio Code or something else
   5. Now in the terminal, type: "npm install" followed by "npm start"
